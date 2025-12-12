@@ -1,0 +1,15 @@
+student-risk-prediction/
+├── notebooks/
+│   └── student_risk_prediction.ipynb     # Main analysis notebook
+├── models/
+│   ├── student_risk_model.pkl            # Trained model
+│   ├── feature_importance.csv            # Feature importance
+│   └── model_metadata.json               # Model metadata
+├── data/
+│   └── student_performance.csv           # Dataset
+├── src/
+│   ├── preprocess.py                     # Data preprocessing
+│   ├── train_model.py                    # Model training
+│   └── visualize.py                      # Visualization utilities
+├── requirements.txt                       # Dependencies
+└── README.md                             # Project documentation
