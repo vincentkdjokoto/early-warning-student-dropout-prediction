@@ -1,6 +1,7 @@
 # early-warning-student-dropout-prediction
 
-<4> Key Question Answered /<4>
+* Key Question Answered
+
 Top 5 Early Indicators of Student Risk:
 First Semester GPA (< 2.5): Strongest single predictor of future risk
 
